@@ -1,0 +1,7 @@
+<!DOCTYPE html><html><head><title>验证码_哔哩哔哩</title><meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,viewport-fit=cover"><meta name="spm_prefix" content="333.1291"><script type="text/javascript" src="//www.bilibili.com/gentleman/polyfill.js?features=Promise%2CObject.assign%2CString.prototype.includes%2CNumber.isNaN"></script>
+    <script>
+    window._riskdata_ = {
+      'v_voucher': 'voucher_c8a17682-f0d0-4e41-8ec0-4698beeb0a4e'
+    }
+    </script>
+    <script type="text/javascript" src="//s1.hdslb.com/bfs/seed/log/report/log-reporter.js"></script><link href="//s1.hdslb.com/bfs/static/jinkela/risk-captcha/css/risk-captcha.0.25c0fa17f6d488f04b157c52e946e4a2d740eebf.css" rel="stylesheet"></head><body><div id="biliMainHeader"></div><div id="risk-captcha-app"></div><script src="//s1.hdslb.com/bfs/seed/jinkela/risk-captcha-sdk/CaptchaLoader.js"></script><script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/risk-captcha/1.risk-captcha.25c0fa17f6d488f04b157c52e946e4a2d740eebf.js"></script><script type="text/javascript" src="//s1.hdslb.com/bfs/static/jinkela/risk-captcha/risk-captcha.25c0fa17f6d488f04b157c52e946e4a2d740eebf.js"></script></body></html>
